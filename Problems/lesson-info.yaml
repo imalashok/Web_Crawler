@@ -1,0 +1,15 @@
+content:
+- Start or end of a word
+- Find a word with a given length
+- Number parsing
+- In the middle of a word
+- Extracting big numbers from a text
+- Extracting words from a text
+- Find all passwords
+- Remove extra spaces
+- Remove HTML tags
+- Remove comments
+- Multithreaded counter
+- Countdown counter
+- Counting number of instances
+- Thread-safe account
